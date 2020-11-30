@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554573658937",
+    "firebase_url": "https://wasteagramraymonn.firebaseio.com",
+    "project_id": "wasteagramraymonn",
+    "storage_bucket": "wasteagramraymonn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554573658937:android:13fdc8378ad9196dfc86e8",
+        "android_client_info": {
+          "package_name": "edu.oregonstate.raymonn.wasteagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554573658937-onb0vm444t8lg7dsveup0fcuvo4udna1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrRDeVOJwBaoMYGI_5Du-gSV7aRu4eYPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554573658937-onb0vm444t8lg7dsveup0fcuvo4udna1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

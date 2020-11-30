@@ -1,0 +1,1 @@
+appbar displays the total numbers of waste items from the posts.
